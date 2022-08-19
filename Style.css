@@ -1,0 +1,18 @@
+.body_background{
+    background-image: url("golden\ doodle.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: turquoise;
+    font-size: 40px;
+}
+
+#myCanvas{
+    border-width: 10px;
+    background-color: black;
+    border-style: ridge;
+}
+span{
+    font-size: 20px;
+}
